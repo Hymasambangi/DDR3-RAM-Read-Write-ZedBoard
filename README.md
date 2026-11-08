@@ -31,3 +31,15 @@ DDR3 memory read and write operations were implemented and verified on the ZedBo
 
 ## Author
 Sambangi Hymavathi
+
+
+## Project Screenshots
+
+### Vivado Block Design
+![Vivado Block Design](screenshots/Block%20Design.jpeg)
+
+### Vitis C Code
+![Vitis Code](screenshots/Vitis%20code.jpeg)
+
+### DDR3 Read/Write Output
+![DDR3 Output](screenshots/DDR%20Output.jpeg)
